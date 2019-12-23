@@ -1,0 +1,8 @@
+<application>
+  <component name="PostfixTemplates">
+    <template id="ifne@userDefined" key=".ifne" provider="builtin.php" topmost="false">
+      <conditions />
+      <template name="fakeKey" value="if(!empty($EXPR$)) {&#10;    $END$&#10;}" toReformat="true" toShortenFQNames="true" />
+    </template>
+  </component>
+</application>
