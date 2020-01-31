@@ -4,6 +4,7 @@
       <mapping ext="oro" type="PHP" />
       <mapping ext="class" type="PHP" />
       <mapping pattern="config" type="PLAIN_TEXT" />
+      <mapping pattern=".gitkeep" type="PLAIN_TEXT" />
       <mapping pattern="default-ssl" type="PLAIN_TEXT" />
       <mapping ext="crt" type="PLAIN_TEXT" />
       <mapping ext="2019" type="PLAIN_TEXT" />
