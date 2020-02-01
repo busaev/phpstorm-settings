@@ -16,13 +16,13 @@
     <mask>*.module</mask>
     <mask>*.phtml</mask>
     <mask>*.ctp</mask>
-    <mask>*.ts</mask>
     <mask>*Element.php</mask>
     <mask>*.js</mask>
     <mask>*SqlProvider.php</mask>
     <mask>*.twig</mask>
     <mask>*.yaml</mask>
     <mask>*Process.php</mask>
+    <mask>*.ts</mask>
     <mask>*.yml</mask>
     <mask>*.php</mask>
   </component>

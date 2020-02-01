@@ -46,9 +46,33 @@
           <option name="url" value="http://basse.ru:3000" />
           <option name="userName" value="busaev" />
         </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="https://github.com/bitnami/bitnami-docker-pgpool.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="http://basse.ru:3000/busaev/bratetskrolik.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="http://basse.ru:3000" />
+          <option name="userName" value="busaev" />
+        </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="git@gitlab.ndv.ru:NdvCmf/myrealtypro.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="git@gitlab.ndv.ru:NdvSites/zhk-istok.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="https://github.com/busaev/devserver.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
       </list>
     </option>
-    <option name="cloneParentDir" value="C:\Users\Андрей\PhpstormProjects" />
+    <option name="cloneParentDir" value="$USER_HOME$/PhpstormProjects" />
   </component>
   <component name="Vcs.Log.App.Settings">
     <option name="COLUMN_ORDER">
