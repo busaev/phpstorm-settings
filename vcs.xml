@@ -39,14 +39,6 @@
           <option name="userName" value="" />
         </UrlAndUserName>
         <UrlAndUserName>
-          <option name="url" value="http://basse.ru:3000/busaev/bk-light.git" />
-          <option name="userName" value="" />
-        </UrlAndUserName>
-        <UrlAndUserName>
-          <option name="url" value="http://basse.ru:3000" />
-          <option name="userName" value="busaev" />
-        </UrlAndUserName>
-        <UrlAndUserName>
           <option name="url" value="https://github.com/bitnami/bitnami-docker-pgpool.git" />
           <option name="userName" value="" />
         </UrlAndUserName>
@@ -73,6 +65,10 @@
         <UrlAndUserName>
           <option name="url" value="http://basse.ru:3000/busaev/bk-light.git" />
           <option name="userName" value="" />
+        </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="http://basse.ru:3010" />
+          <option name="userName" value="busaev" />
         </UrlAndUserName>
       </list>
     </option>
