@@ -70,9 +70,17 @@
           <option name="url" value="http://basse.ru:3010" />
           <option name="userName" value="busaev" />
         </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="https://gitlab.ndv.ru/NdvCrm/crm.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="http://gitlab.ndv.ru" />
+          <option name="userName" value="a@busaev.ru" />
+        </UrlAndUserName>
       </list>
     </option>
-    <option name="cloneParentDir" value="$USER_HOME$/PhpstormProjects" />
+    <option name="cloneParentDir" value="C:\Users\Андрей\PhpstormProjects" />
   </component>
   <component name="Vcs.Log.App.Settings">
     <option name="COLUMN_ORDER">
