@@ -3,7 +3,6 @@
     <option name="customScope" value="All Places" />
     <option name="defaultScopeName" value="All Places" />
     <option name="SEARCH_SCOPE" value="All Places" />
-    <mask>*.css</mask>
     <mask>*.html</mask>
     <mask>*.xml</mask>
     <mask>*.inc</mask>
@@ -17,10 +16,11 @@
     <mask>*.js</mask>
     <mask>*SqlProvider.php</mask>
     <mask>*.twig</mask>
-    <mask>*.yaml</mask>
     <mask>*Process.php</mask>
     <mask>*.ts</mask>
     <mask>*.yml</mask>
+    <mask>*.css</mask>
+    <mask>*.yaml</mask>
     <mask>*.php</mask>
   </component>
 </application>
