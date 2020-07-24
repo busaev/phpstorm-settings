@@ -82,9 +82,13 @@
           <option name="url" value="https://gitlab.ndv.ru/NdvCmf/cmf-core.git" />
           <option name="userName" value="" />
         </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="git@gitlab.ndv.ru:NdvCmf/CmfClient.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
       </list>
     </option>
-    <option name="cloneParentDir" value="C:\Users\Андрей\PhpstormProjects" />
+    <option name="cloneParentDir" value="$USER_HOME$/PhpstormProjects" />
   </component>
   <component name="Vcs.Log.App.Settings">
     <option name="COLUMN_ORDER">
