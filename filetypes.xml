@@ -3,6 +3,7 @@
     <extensionMap>
       <mapping ext="class" type="PHP" />
       <mapping ext="oro" type="PHP" />
+      <mapping ext="tmpl" type="PHP" />
       <mapping pattern=".gitingore" type="PLAIN_TEXT" />
       <mapping pattern="default-ssl" type="PLAIN_TEXT" />
       <mapping pattern="config" type="PLAIN_TEXT" />
