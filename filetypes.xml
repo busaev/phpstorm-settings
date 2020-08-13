@@ -1,6 +1,7 @@
 <application>
   <component name="FileTypeManager" version="17">
     <extensionMap>
+      <mapping ext="dist" type="JSON" />
       <mapping ext="class" type="PHP" />
       <mapping ext="oro" type="PHP" />
       <mapping ext="tmpl" type="PHP" />
