@@ -5,6 +5,7 @@
     <option name="localRegularExpressions" value="true" />
     <option name="LOCAL_REGULAR_EXPRESSIONS" value="true" />
     <option name="SEARCH_SCOPE" value="All Places" />
+    <option name="FILE_MASK" value="*Provider.php" />
     <mask>*.html</mask>
     <mask>*.xml</mask>
     <mask>*.inc</mask>
@@ -27,5 +28,6 @@
     <mask>*.php</mask>
     <mask>*.yml</mask>
     <mask>*.twig</mask>
+    <mask>*Provider.php</mask>
   </component>
 </application>
