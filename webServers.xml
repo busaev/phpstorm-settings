@@ -1,0 +1,9 @@
+<application>
+  <component name="WebServers">
+    <option name="servers">
+      <webServer id="0fc7abfd-4eb7-4b41-95b5-206fe2024ed6" name="HPMR-SSHFS" url="http://hpmr.ru">
+        <fileTransfer accessType="LOCAL" port="0" />
+      </webServer>
+    </option>
+  </component>
+</application>
