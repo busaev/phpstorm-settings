@@ -5,6 +5,7 @@
     <option name="localRegularExpressions" value="true" />
     <option name="LOCAL_REGULAR_EXPRESSIONS" value="true" />
     <option name="SEARCH_SCOPE" value="All Places" />
+    <option name="FILE_MASK" value="*.yaml" />
     <mask>*.html</mask>
     <mask>*.xml</mask>
     <mask>*.inc</mask>
@@ -17,7 +18,6 @@
     <mask>*Element.php</mask>
     <mask>*SqlProvider.php</mask>
     <mask>*Process.php</mask>
-    <mask>*.yaml</mask>
     <mask>*.css</mask>
     <mask>*Widget.php</mask>
     <mask>*.js</mask>
@@ -28,5 +28,6 @@
     <mask>*.twig</mask>
     <mask>*Provider.php</mask>
     <mask>*.ts</mask>
+    <mask>*.yaml</mask>
   </component>
 </application>
