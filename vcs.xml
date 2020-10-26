@@ -130,9 +130,17 @@
           <option name="url" value="https://github.com/takama/daemon.git" />
           <option name="userName" value="" />
         </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="http://svn.hp.ndv.ru/dev.hp.ndv.ru/" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="http://svn.hp.ndv.ru" />
+          <option name="userName" value="a@busaev.ru" />
+        </UrlAndUserName>
       </list>
     </option>
-    <option name="cloneParentDir" value="$USER_HOME$/PhpstormProjects" />
+    <option name="cloneParentDir" value="C:\Users\Андрей\PhpstormProjects" />
   </component>
   <component name="Vcs.Log.App.Settings">
     <option name="COLUMN_ORDER">
